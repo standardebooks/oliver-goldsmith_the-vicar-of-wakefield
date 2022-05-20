@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/oliver-goldsmith/the-vicar-of-wakefield</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-05-20T17:28:36Z</dc:date>
+		<meta property="dcterms:modified">2022-05-20T17:28:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -59,13 +59,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Though published in 1766, &lt;i&gt;The Vicar of Wakefield&lt;/i&gt; was one of the most popular and widely-read books of the Victorian era. References to &lt;i&gt;Vicar&lt;/i&gt; in Victorian literature abound: George Eliot, Austen, Dickens, Mary Shelly, Charlotte Brontë, Alcott, Goethe, and many more famous writers all mention &lt;i&gt;Vicar&lt;/i&gt; in their books.&lt;/p&gt;
+			&lt;p&gt;The plot concerns the titular vicar, Charles Primrose, a mild-mannered and forgiving man who lives with his family in a country parish. His prosperity comes from careful investments of his inheritance—but when one of his business partners goes bankrupt, the vicar finds himself suddenly impoverished.&lt;/p&gt;
+			&lt;p&gt;Perhaps the reason for &lt;i&gt;Vicar&lt;/i&gt;’s long-lasting appeal is its careful balance between its being interpreted as either a sincere sentimental novel, or a satire of sentimental novels. Primrose is an oblivious protagonist, totally helpless against the evil forces of the world that constantly buffet him and his family. Despite this, the almost-ridiculous plot always manages to find a deus ex machina to save him from his latest calamity. The plot is so unbelievable that the reader is led to think that &lt;a href="https://standardebooks.org/ebooks/oliver-goldsmith"&gt;Goldsmith&lt;/a&gt; &lt;em&gt;must&lt;/em&gt; have meant &lt;i&gt;Vicar&lt;/i&gt; as a satire—and yet the novel is so earnest that the reader is left wondering.&lt;/p&gt;
+			&lt;p&gt;In the end, Primrose and his family serve as warnings to the reader to not be as heedless and powerless as they. The family’s constant deliverance from the disasters they blunder in to are Goldsmith’s way of saying that life is really not so &lt;a href="https://standardebooks.org/ebooks/voltaire/candide/the-modern-library"&gt;Panglossian&lt;/a&gt; as one might want to believe, and that bad things can and do happen to good people—though in real life, rarely does a hero appear for a last-minute rescue. This worldview, which is so contrary to the Victorian’s ideals of romance and sentimentalism, may be what made it so popular as a satire in that era.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2667</dc:source>
 		<dc:source>https://archive.org/details/b2254677/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">63465</meta>
+		<meta property="se:reading-ease.flesch">63.12</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Vicar_of_Wakefield</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oliver-goldsmith_the-vicar-of-wakefield</meta>
 		<dc:creator id="author">Oliver Goldsmith</dc:creator>
