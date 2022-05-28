@@ -55,7 +55,3 @@ p span.i1{
 	text-align: justify;
 	text-indent: 0;
 }
-
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
