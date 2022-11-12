@@ -67,7 +67,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2667</dc:source>
 		<dc:source>https://archive.org/details/b2254677/</dc:source>
-		<meta property="se:word-count">63465</meta>
+		<meta property="se:word-count">63462</meta>
 		<meta property="se:reading-ease.flesch">63.12</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Vicar_of_Wakefield</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/oliver-goldsmith_the-vicar-of-wakefield</meta>
